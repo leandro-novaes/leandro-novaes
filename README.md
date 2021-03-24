@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá, sou o Leandro! 👋
 
-<!--
-**leandro-novaes/leandro-novaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor Front-End na **[Softvaro](https://softvaro.com.br/)**, mas atuo como Full Stack desde o início da carreira, em meados de 2014.
 
-Here are some ideas to get you started:
+Principais linguagens, frameworks e tecnologias que trabalhei e/ou estudei são:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linguagens | Frameworks**
+
+* **JavaScript | TypeScript**: Vue, React, Express
+* **PHP**: Laravel, CakePHP, CodeIgniter, WordPress
+* **Ruby**: Ruby on Rails
+* **Python**: Django
+
+**Gerais**
+
+* Mocha | Jest | Cypress - RSpec | Capybara - PHPUnit
+* GraphQL
+* RabbitMQ | Sidekiq | Celery | Bull
+* PostgreSQL | MySQL | Oracle | SQL Server | MongoDB
+* Redis | Memcached
+* Elasticsearch
+* Docker
+* AWS
