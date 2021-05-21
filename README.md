@@ -6,17 +6,15 @@ Principais linguagens, frameworks e tecnologias que trabalhei e/ou estudei são:
 
 **Linguagens | Frameworks**
 
-* **JavaScript | TypeScript**: Vue, React, Express
-* **PHP**: Laravel, CakePHP, CodeIgniter, WordPress
-* **Ruby**: Ruby on Rails
-* **Python**: Django
+* **JavaScript | TypeScript**: Vue/Nuxt, React/Next, Node (Express | Nest)
+* **PHP**: Laravel, WordPress
 
 **Gerais**
 
-* Mocha | Jest | Cypress - RSpec | Capybara - PHPUnit
+* Jest | Cypress
 * GraphQL
-* RabbitMQ | Sidekiq | Celery | Bull
-* PostgreSQL | MySQL | Oracle | SQL Server | MongoDB
+* RabbitMQ | Bull
+* PostgreSQL | MySQL | Oracle | MongoDB
 * Redis | Memcached
 * Elasticsearch
 * Docker
