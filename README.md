@@ -1,12 +1,12 @@
 ### Olá, sou o Leandro! 👋
 
-Sou Desenvolvedor Front-End na **[Softvaro](https://softvaro.com.br/)**, mas atuo como Full Stack desde o início da carreira, em meados de 2014.
+Sou Senior Software Engineer na **[Cadmus](https://cadmus.com.br/)** e **[DevSkin](https://devskin.com/)**, e faço freelas no meu tempo livre.
 
 Principais linguagens, frameworks e tecnologias que trabalhei e/ou estudei são:
 
 **Linguagens | Frameworks**
 
-* **JavaScript | TypeScript**: Vue/Nuxt, React/Next, Node (Express | Nest)
+* **JavaScript | TypeScript**: Vue/Nuxt, React/Next, Node (Express | Nest | Adonis)
 * **PHP**: Laravel, WordPress
 
 **Gerais**
@@ -14,7 +14,7 @@ Principais linguagens, frameworks e tecnologias que trabalhei e/ou estudei são:
 * Jest | Cypress
 * GraphQL
 * RabbitMQ | Bull
-* PostgreSQL | MySQL | Oracle | MongoDB
+* PostgreSQL | MySQL | Oracle | SQL Server | MongoDB
 * Redis | Memcached
 * Elasticsearch
 * Docker
