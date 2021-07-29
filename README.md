@@ -1,21 +1,20 @@
 ### Olá, sou o Leandro! 👋
 
-Sou Senior Software Engineer na **[Cadmus](https://cadmus.com.br/)** e **[DevSkin](https://devskin.com/)**, e faço freelas no meu tempo livre.
+Sou Senior Software Engineer na **[Cadmus](https://cadmus.com.br/)** e faço freelas no meu tempo livre.
 
-Principais linguagens, frameworks e tecnologias que trabalhei e/ou estudei são:
-
-**Linguagens | Frameworks**
+Abaixo minhas principais linguagens e frameworks:
 
 * **JavaScript | TypeScript**: Vue/Nuxt, React/Next, Node (Express | Nest | Adonis)
 * **PHP**: Laravel, WordPress
+* **Python**: Django
+* **Ruby**: Rails
 
-**Gerais**
+**Demais**
 
-* Jest | Cypress
-* GraphQL
-* RabbitMQ | Bull
-* PostgreSQL | MySQL | Oracle | SQL Server | MongoDB
-* Redis | Memcached
+* REST | GraphQL
+* RabbitMQ
+* PostgreSQL | MySQL | SQL Server | MongoDB
+* Redis
 * Elasticsearch
 * Docker
 * AWS
